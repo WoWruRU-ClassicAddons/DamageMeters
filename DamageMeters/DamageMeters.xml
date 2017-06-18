@@ -8,6 +8,7 @@
 	<Script file="DamageMeters_Globals.lua"/>
 	<Script file="localization.en.lua"/>
 	<Script file="localization.de.lua"/>
+	<Script file="localization.ru.lua"/>
 	<Script file="localization.fr.lua"/>
 	<Script file="DMEventCaseTable.lua"/>
 	<Script file="DamageMeters_Report.lua"/>

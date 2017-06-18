@@ -1,8 +1,10 @@
 ## Interface: 11200
 ## Title: DamageMeters
+## Title-ruRU: DamageMeters
 ## Author: Dandelion/Gnarfoz/AnduinLothar
 ## Version: 5.3.1
 ## Notes: Displays accumulated damage totals for you and nearby players.
+## Notes-ruRU: Отображает нанесенный вами урон и урон ближайших игроков.
 ## Notes-deDE: Zeigt gesammelte Schadens- und andere Werte von dir und anderen Spielern an.
 ## DefaultState: Enabled
 ## LoadOnDemand: 0
